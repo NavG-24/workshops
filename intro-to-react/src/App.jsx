@@ -1,11 +1,5 @@
-import List from './List'
-
 function App() {
-  return (
-    <div>
-      <List />
-    </div>
-  )
+  return <div></div>
 }
 
 export default App
