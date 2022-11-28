@@ -1,4 +1,4 @@
-# Intro to React Workshop - 11/29
+# Intro to React Workshop - 11/28
 
 ## Project: To-Do-list
 
